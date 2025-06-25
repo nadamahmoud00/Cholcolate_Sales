@@ -1,7 +1,7 @@
 #  🍫Chocolate Sales Dashboard
 
 An interactive Tableau dashboard that provides insights into chocolate product sales across various regions, products, and time periods.
-![Dashboard 1](https://github.com/user-attachments/assets/c4f06cc6-f0e5-45fd-9680-83f2bd7e77d4)
+
 
 
 ## 📊 Project Overview
@@ -16,7 +16,7 @@ This dashboard explores and analyzes chocolate sales data, including:
 - Top products by shipping and revenue
 
 The visualizations help stakeholders quickly identify top-performing regions, products, and sales personnel.
-
+![Dashboard 1](https://github.com/user-attachments/assets/c4f06cc6-f0e5-45fd-9680-83f2bd7e77d4)
 
 ## 📂 Tools & Technologies
 
